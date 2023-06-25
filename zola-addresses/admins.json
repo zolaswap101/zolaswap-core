@@ -1,0 +1,27 @@
+{
+  
+        "_devaddr": "0xd6Aa0425cf71b1fBEb856ee2821DE56eD15d8e03",
+
+        "defaultTokens" : [
+            "0xc1CEE919D93DC545D0EA59234C11BE7A536E5108",
+            "0x108FD4c11d4a2A9a61ED420Ad21A198A6db5E100",
+            "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+            "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+            "0x38f7a955209e32292465BBbe74781AC600dBb139"
+
+        ],
+        "wrappedTokens": [
+            "0x2549e33C01E385B574F78BC326a28a400b7C5f1B"
+        ],
+        "savedwrappedTokens": [
+            "0x27d09377037F606B5379318Db362bE0aDc8eAac1",
+            "0x1006db679F9796Bfbb49725E6E3eEd3169a998F0",
+            "0x409c6C8AeB18AA03c9e0B02E826611cBA07E9248",
+            "0x5a0165e3E2A2BEc08B4DaBB8f848403a2a6Ea148",
+            "0x5d5d2abEC2d84F854D0D6e28f83EDb21cCE411a3",
+            "0x140F69555B9428Be478C9203E192EccBeD3fBFC9"
+        ],
+        "ifowrappedTokens": [
+            "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+        ]
+}
